@@ -1,0 +1,1 @@
+This is my first project.Iam going to build basic recipe website.The website will consist of a main index page which will have links to a few recipes.This is to use html knowledge on practical projects like this!
